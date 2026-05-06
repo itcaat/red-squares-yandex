@@ -1,0 +1,5 @@
+node_modules
+dist
+public/data/incidents.json
+.DS_Store
+*.local
